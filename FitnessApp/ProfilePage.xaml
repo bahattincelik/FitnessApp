@@ -1,0 +1,12 @@
+﻿<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FitnessApp.ProfilePage">
+    <StackLayout Padding="20">
+        <Label Text="Profile"
+               FontSize="30"
+               HorizontalOptions="Center"/>
+        <Entry Placeholder="Enter your weight"/>
+        <Entry Placeholder="Enter your height"/>
+        <Button Text="Save" Clicked="OnSaveClicked"/>
+    </StackLayout>
+</ContentPage>

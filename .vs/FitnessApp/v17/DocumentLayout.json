@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8684734A-9F7C-4B7B-8266-E4CAD87CEEEE}|FitnessApp\\FitnessApp.csproj|c:\\users\\lenovo\\source\\repos\\fitnessapp\\fitnessapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8684734A-9F7C-4B7B-8266-E4CAD87CEEEE}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8684734A-9F7C-4B7B-8266-E4CAD87CEEEE}|FitnessApp\\FitnessApp.csproj|c:\\users\\lenovo\\source\\repos\\fitnessapp\\fitnessapp\\fitnessapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8684734A-9F7C-4B7B-8266-E4CAD87CEEEE}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\fitnessapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8684734A-9F7C-4B7B-8266-E4CAD87CEEEE}|FitnessApp\\FitnessApp.csproj|c:\\users\\lenovo\\source\\repos\\fitnessapp\\fitnessapp\\fitnessapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8684734A-9F7C-4B7B-8266-E4CAD87CEEEE}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\fitnessapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8684734A-9F7C-4B7B-8266-E4CAD87CEEEE}|FitnessApp\\FitnessApp.csproj|c:\\users\\lenovo\\source\\repos\\fitnessapp\\fitnessapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8684734A-9F7C-4B7B-8266-E4CAD87CEEEE}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8684734A-9F7C-4B7B-8266-E4CAD87CEEEE}|FitnessApp\\FitnessApp.csproj|c:\\users\\lenovo\\source\\repos\\fitnessapp\\fitnessapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8684734A-9F7C-4B7B-8266-E4CAD87CEEEE}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8684734A-9F7C-4B7B-8266-E4CAD87CEEEE}|FitnessApp\\FitnessApp.csproj|c:\\users\\lenovo\\source\\repos\\fitnessapp\\fitnessapp\\appshell.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{8684734A-9F7C-4B7B-8266-E4CAD87CEEEE}|FitnessApp\\FitnessApp.csproj|solutionrelative:fitnessapp\\appshell.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FitnessApp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\FitnessApp\\FitnessApp.csproj",
+              "RelativeDocumentMoniker": "FitnessApp\\FitnessApp.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\FitnessApp\\FitnessApp.csproj",
+              "RelativeToolTip": "FitnessApp\\FitnessApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T09:03:32.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\FitnessApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\FitnessApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "FitnessApp\\AppShell.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:58:39.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FitnessApp",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\FitnessApp\\FitnessApp.csproj",
+              "RelativeDocumentMoniker": "FitnessApp\\FitnessApp.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\FitnessApp\\FitnessApp.csproj",
+              "RelativeToolTip": "FitnessApp\\FitnessApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T08:36:29.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\FitnessApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "FitnessApp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\FitnessApp\\AppShell.xaml",
+              "RelativeToolTip": "FitnessApp\\AppShell.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T08:20:53.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\FitnessApp\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\FitnessApp\\MainPage.xaml.cs",
+              "RelativeToolTip": "FitnessApp\\MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T08:12:47.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\FitnessApp\\MainPage.xaml",
+              "RelativeDocumentMoniker": "FitnessApp\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\FitnessApp\\FitnessApp\\MainPage.xaml",
+              "RelativeToolTip": "FitnessApp\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-05T07:56:51.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
